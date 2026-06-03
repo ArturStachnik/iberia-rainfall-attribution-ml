@@ -1,0 +1,17 @@
+name: WeMO_Isotopy
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - cartopy
+  - matplotlib
+  - scipy
+  - xarray
+  - requests
+  - netcdf4
+  - numpy
+  - scikit-learn
+  - pandas
+  - xgboost

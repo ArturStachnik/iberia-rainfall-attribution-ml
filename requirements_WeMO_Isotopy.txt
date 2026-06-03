@@ -1,0 +1,2 @@
+numpy pandas scipy matplotlib scikit-learn xarray netcdf4 cartopy
+requests xgboost
